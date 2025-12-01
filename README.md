@@ -1,7 +1,7 @@
 # my_project
 ```py
 print("Hello world")
-
+```
 
 ### моё первое консольноу окно
 
