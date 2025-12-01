@@ -1,0 +1,22 @@
+# my_project
+```py
+print("Hello world")
+
+
+### моё первое консольноу окно
+
+### Визуал
+
+![img1](https://github.com/AndreyneAndrey/my_project/blob/main/Снимок%20экрана%202025-12-01%20113139.png)
+
+
+# Для линукс систем:
+
+``` bach
+python3 main.py
+```
+
+# Для виндоус:
+
+```bach
+python main.py
