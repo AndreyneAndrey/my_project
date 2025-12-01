@@ -10,7 +10,7 @@ print("Hello world")
 ![img1](https://github.com/AndreyneAndrey/my_project/blob/main/Снимок%20экрана%202025-12-01%20113139.png)
 
 
-# Для линукс систем:
+# Для линукс:
 
 ``` bach
 python3 main.py
